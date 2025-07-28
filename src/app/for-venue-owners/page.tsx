@@ -31,8 +31,8 @@ export default function ForVenueOwnersPage() {
             <Image
               src="https://placehold.co/600x400.png"
               alt="Small business owner"
-              layout="fill"
-              objectFit="cover"
+              fill
+              className="object-cover"
               data-ai-hint="business owner portrait"
             />
           </div>
@@ -161,8 +161,8 @@ export default function ForVenueOwnersPage() {
             <Image
               src="https://placehold.co/600x400.png"
               alt="Beautiful venue in Bali"
-              layout="fill"
-              objectFit="cover"
+              fill
+              className="object-cover"
               data-ai-hint="boutique hotel bali"
             />
           </div>

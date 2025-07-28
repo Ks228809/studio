@@ -150,10 +150,10 @@ export default function Home() {
             </div>
             <div className="relative h-80 w-full overflow-hidden rounded-lg shadow-xl">
                <Image
-                 src="https://placehold.co/600x400.png"
+                 src="https://images.unsplash.com/photo-1573790387438-4da905039392?q=80&w=2127&auto=format&fit=crop"
                  alt="Bali scenery"
-                 layout="fill"
-                 objectFit="cover"
+                 fill
+                 className="object-cover"
                  data-ai-hint="bali temple"
                />
             </div>

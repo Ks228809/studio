@@ -38,9 +38,8 @@ export default function BaliPilotPage() {
         <Image
           src="https://placehold.co/1920x1080.png"
           alt="Panoramic view of Bali"
-          layout="fill"
-          objectFit="cover"
-          className="brightness-50"
+          fill
+          className="object-cover brightness-50"
           data-ai-hint="bali landscape"
         />
         <div className="absolute inset-0 flex items-center justify-center bg-black/40">

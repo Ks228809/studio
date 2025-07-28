@@ -70,8 +70,8 @@ export default function AboutPage() {
             <Image
               src="https://placehold.co/600x800.png"
               alt="Emerging market street scene"
-              layout="fill"
-              objectFit="cover"
+              fill
+              className="object-cover"
               data-ai-hint="bali street"
             />
           </div>

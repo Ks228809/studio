@@ -16,8 +16,8 @@ export default function ApplyPage() {
              <Image
                 src="https://placehold.co/600x400.png"
                 alt="Venue owner planning"
-                layout="fill"
-                objectFit="cover"
+                fill
+                className="object-cover"
                 data-ai-hint="business owner planning"
              />
           </div>

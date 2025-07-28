@@ -74,8 +74,8 @@ export default function HowItWorksPage() {
             <Image
               src="https://placehold.co/600x800.png"
               alt="Technology stack diagram"
-              layout="fill"
-              objectFit="cover"
+              fill
+              className="object-cover"
               data-ai-hint="blockchain technology"
             />
           </div>

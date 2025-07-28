@@ -22,9 +22,8 @@ export default function VenueCard({ venue }: VenueCardProps) {
             <Image
               src={venue.images[0]}
               alt={venue.name}
-              layout="fill"
-              objectFit="cover"
-              className="transition-opacity duration-300 group-hover:opacity-90"
+              fill
+              className="object-cover transition-opacity duration-300 group-hover:opacity-90"
               data-ai-hint="bali boutique hotel"
             />
             <Badge className="absolute right-2 top-2" variant="secondary">{venue.type}</Badge>

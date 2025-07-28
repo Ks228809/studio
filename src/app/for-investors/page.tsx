@@ -31,8 +31,8 @@ export default function ForInvestorsPage() {
             <Image
               src="https://placehold.co/600x400.png"
               alt="Graph showing asset growth"
-              layout="fill"
-              objectFit="cover"
+              fill
+              className="object-cover"
               data-ai-hint="financial growth chart"
             />
           </div>
