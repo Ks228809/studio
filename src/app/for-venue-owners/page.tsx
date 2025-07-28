@@ -14,7 +14,7 @@ export default function ForVenueOwnersPage() {
             Access the Capital You Deserve.
           </h1>
           <p className="mx-auto mt-6 max-w-[700px] text-primary-foreground/80 md:text-xl">
-            Grow your business without debt or giving up equity. VenueYield connects you with a global network of investors ready to fund your vision.
+            Grow your business without debt or giving up equity. Mekoin connects you with a global network of investors ready to fund your vision.
           </p>
           <div className="mt-8 flex justify-center">
             <Button asChild size="lg" variant="secondary" className="font-bold">
@@ -42,7 +42,7 @@ export default function ForVenueOwnersPage() {
               For small and medium-sized businesses in emerging markets, securing affordable capital is a constant struggle. Banks are slow and demanding, and traditional loans create burdensome debt.
             </p>
             <p className="mt-4 text-lg text-muted-foreground">
-              VenueYield offers a new path forward. We provide fast, non-bank capital through a revenue-sharing model. You get the funds to grow, and investors share in your success, not your ownership.
+              Mekoin offers a new path forward. We provide fast, non-bank capital through a revenue-sharing model. You get the funds to grow, and investors share in your success, not your ownership.
             </p>
           </div>
         </div>
@@ -52,7 +52,7 @@ export default function ForVenueOwnersPage() {
       <section className="bg-secondary py-16 md:py-24">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="font-headline text-3xl font-bold tracking-tighter sm:text-4xl">Why Fund with VenueYield?</h2>
+            <h2 className="font-headline text-3xl font-bold tracking-tighter sm:text-4xl">Why Fund with Mekoin?</h2>
             <p className="mx-auto mt-4 max-w-2xl text-muted-foreground md:text-lg">
               Our model is designed to be a true partnership, aligning our success with yours.
             </p>
@@ -160,10 +160,10 @@ export default function ForVenueOwnersPage() {
           <div className="relative h-80 w-full overflow-hidden rounded-lg shadow-xl">
             <Image
               src="https://placehold.co/600x400.png"
-              alt="Beautiful venue in Southeast Asia"
+              alt="Beautiful venue in Bali"
               layout="fill"
               objectFit="cover"
-              data-ai-hint="boutique hotel exterior"
+              data-ai-hint="boutique hotel bali"
             />
           </div>
         </div>

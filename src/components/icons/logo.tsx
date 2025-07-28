@@ -4,7 +4,7 @@ export default function Logo() {
   return (
     <div className="flex items-center gap-2">
       <Leaf className="h-7 w-7 text-primary" />
-      <span className="font-headline text-xl font-bold">VenueYield</span>
+      <span className="font-headline text-xl font-bold">Mekoin</span>
     </div>
   );
 }

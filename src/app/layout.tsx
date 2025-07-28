@@ -5,7 +5,7 @@ import Header from "@/components/layout/header";
 import Footer from "@/components/layout/footer";
 
 export const metadata: Metadata = {
-  title: "VenueYield",
+  title: "Mekoin",
   description: "Real Places. Real Yields. No Delays.",
 };
 

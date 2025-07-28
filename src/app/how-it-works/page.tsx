@@ -9,7 +9,7 @@ export default function HowItWorksPage() {
       <section className="bg-secondary">
         <div className="container mx-auto px-4 py-20 text-center md:py-28">
           <h1 className="font-headline text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
-            The VenueYield Growth Flywheel
+            The Mekoin Growth Flywheel
           </h1>
           <p className="mx-auto mt-6 max-w-[700px] text-muted-foreground md:text-xl">
             Our model creates a self-reinforcing cycle of growth, benefiting venue owners, investors, and the platform simultaneously.
@@ -40,7 +40,7 @@ export default function HowItWorksPage() {
               {
                 icon: <Repeat className="h-8 w-8 text-primary" />,
                 title: "4. Reputation & Trust",
-                description: "Successful case studies build VenueYield's reputation, attracting more high-quality venues and confident investors.",
+                description: "Successful case studies build Mekoin's reputation, attracting more high-quality venues and confident investors.",
               },
               {
                 icon: <Layers className="h-8 w-8 text-primary" />,

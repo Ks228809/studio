@@ -40,7 +40,7 @@ export default function Footer() {
               <ul className="mt-4 space-y-2">
                 <li><Link href="/about" className="text-muted-foreground hover:text-primary">About Us</Link></li>
                 <li><Link href="/how-it-works" className="text-muted-foreground hover:text-primary">How It Works</Link></li>
-                <li><Link href="/chiang-mai-pilot" className="text-muted-foreground hover:text-primary">Chiang Mai Pilot</Link></li>
+                <li><Link href="/bali-pilot" className="text-muted-foreground hover:text-primary">Bali Pilot</Link></li>
               </ul>
             </div>
             <div>
@@ -60,7 +60,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 border-t pt-8 text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} VenueYield, Inc. All rights reserved.
+          © {new Date().getFullYear()} Mekoin, Inc. All rights reserved.
         </div>
       </div>
     </footer>

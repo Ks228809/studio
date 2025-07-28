@@ -11,12 +11,12 @@ const advantages = [
   {
     icon: <Bitcoin className="h-8 w-8 text-primary" />,
     title: "Crypto-Savvy Population",
-    description: "Thailand has high crypto adoption rates. This means local venue owners are more open and aware of blockchain's potential.",
+    description: "Indonesia has high crypto adoption rates. This means local venue owners are more open and aware of blockchain's potential.",
   },
   {
     icon: <Leaf className="h-8 w-8 text-primary" />,
     title: "High-Quality, Affordable Venues",
-    description: "The city is full of culturally rich, revenue-ready venues that can be tokenized at a cost-effective level for investors.",
+    description: "The island is full of culturally rich, revenue-ready venues that can be tokenized at a cost-effective level for investors.",
   },
   {
     icon: <Users className="h-8 w-8 text-primary" />,
@@ -26,30 +26,30 @@ const advantages = [
   {
     icon: <Handshake className="h-8 w-8 text-primary" />,
     title: "Navigable Legal Landscape",
-    description: "Thailand's clear stance on digital assets provides a stable and predictable environment for our pilot operations.",
+    description: "Indonesia's clear stance on digital assets provides a stable and predictable environment for our pilot operations.",
   },
 ];
 
-export default function ChiangMaiPilotPage() {
+export default function BaliPilotPage() {
   return (
     <div className="flex flex-col">
       {/* Hero Section */}
       <section className="relative h-[50vh] min-h-[400px]">
         <Image
           src="https://placehold.co/1920x1080.png"
-          alt="Panoramic view of Chiang Mai"
+          alt="Panoramic view of Bali"
           layout="fill"
           objectFit="cover"
           className="brightness-50"
-          data-ai-hint="thailand landscape"
+          data-ai-hint="bali landscape"
         />
         <div className="absolute inset-0 flex items-center justify-center bg-black/40">
           <div className="container mx-auto px-4 text-center text-white">
             <h1 className="font-headline text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
-              Why Chiang Mai First?
+              Why Bali First?
             </h1>
             <p className="mx-auto mt-6 max-w-[700px] text-lg md:text-xl">
-              A strategic launchpad for a global vision. Discover why this vibrant Thai city is the perfect place to pilot the future of real-world asset tokenization.
+              A strategic launchpad for a global vision. Discover why this vibrant Indonesian island is the perfect place to pilot the future of real-world asset tokenization.
             </p>
           </div>
         </div>
@@ -61,7 +61,7 @@ export default function ChiangMaiPilotPage() {
           <div className="text-center mb-12">
             <h2 className="font-headline text-3xl font-bold tracking-tighter sm:text-4xl">The Perfect Ecosystem for Innovation</h2>
             <p className="mx-auto mt-4 max-w-3xl text-muted-foreground md:text-lg">
-              Chiang Mai isn't just a beautiful city; it's a unique convergence of culture, technology, and economic potential that makes it the ideal environment for VenueYield's launch.
+              Bali isn't just a beautiful island; it's a unique convergence of culture, technology, and economic potential that makes it the ideal environment for Mekoin's launch.
             </p>
           </div>
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
@@ -90,7 +90,7 @@ export default function ChiangMaiPilotPage() {
           </div>
           <h2 className="font-headline text-3xl font-bold tracking-tighter sm:text-4xl">From a Strong Foundation to a Global Network</h2>
           <p className="mx-auto mt-4 max-w-3xl text-muted-foreground md:text-lg">
-            By proving our model in Chiang Mai, we are building a robust, scalable platform. The lessons learned and successes achieved here will pave the way for our expansion into other high-potential markets across Southeast Asia and beyond. Chiang Mai is not just our start; it's our blueprint for the future.
+            By proving our model in Bali, we are building a robust, scalable platform. The lessons learned and successes achieved here will pave the way for our expansion into other high-potential markets across Southeast Asia and beyond. Bali is not just our start; it's our blueprint for the future.
           </p>
         </div>
       </section>

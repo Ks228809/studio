@@ -13,7 +13,7 @@ const navLinks = [
   { href: "/for-venue-owners", label: "For Venue Owners" },
   { href: "/how-it-works", label: "How It Works" },
   { href: "/about", label: "About Us" },
-  { href: "/chiang-mai-pilot", label: "Chiang Mai Pilot" },
+  { href: "/bali-pilot", label: "Bali Pilot" },
 ];
 
 export default function Header() {

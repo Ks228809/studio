@@ -36,13 +36,13 @@ export default function VenueDetailPage({ params }: { params: { id: string } }) 
           {/* Image Gallery */}
           <div className="grid grid-cols-6 grid-rows-2 gap-2 h-[500px] mb-8">
             <div className="col-span-4 row-span-2 relative rounded-lg overflow-hidden">
-                <Image src={venue.images[0]} alt={`${venue.name} main view`} layout="fill" objectFit="cover" data-ai-hint="thailand hotel interior"/>
+                <Image src={venue.images[0]} alt={`${venue.name} main view`} layout="fill" objectFit="cover" data-ai-hint="bali hotel interior"/>
             </div>
              <div className="col-span-2 row-span-1 relative rounded-lg overflow-hidden">
-                <Image src={venue.images[1]} alt={`${venue.name} view 2`} layout="fill" objectFit="cover" data-ai-hint="hotel room"/>
+                <Image src={venue.images[1]} alt={`${venue.name} view 2`} layout="fill" objectFit="cover" data-ai-hint="hotel room bali"/>
             </div>
              <div className="col-span-2 row-span-1 relative rounded-lg overflow-hidden">
-                <Image src={venue.images[2]} alt={`${venue.name} view 3`} layout="fill" objectFit="cover" data-ai-hint="hotel pool"/>
+                <Image src={venue.images[2]} alt={`${venue.name} view 3`} layout="fill" objectFit="cover" data-ai-hint="hotel pool bali"/>
             </div>
           </div>
 

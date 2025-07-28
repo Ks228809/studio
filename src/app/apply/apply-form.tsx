@@ -82,7 +82,7 @@ export function ApplyForm() {
                     <FormItem>
                       <FormLabel>Venue Name</FormLabel>
                       <FormControl>
-                        <Input placeholder="e.g., The Chiang Mai Oasis" {...field} />
+                        <Input placeholder="e.g., The Bali Breeze" {...field} />
                       </FormControl>
                       <FormMessage />
                     </FormItem>

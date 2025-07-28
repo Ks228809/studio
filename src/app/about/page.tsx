@@ -11,10 +11,10 @@ const teamMembers = [
     initials: "CT",
   },
   {
-    name: "Jacob Bodenhofer",
+    name: "Koushik Seetha",
     role: "Co-founder & CTO",
     avatar: "https://placehold.co/100x100.png",
-    initials: "JB",
+    initials: "KS",
   },
   {
     name: "Ean Chang",
@@ -34,7 +34,7 @@ export default function AboutPage() {
             Redefining Who Gets Funded.
           </h1>
           <p className="mx-auto mt-6 max-w-[700px] text-muted-foreground md:text-xl">
-            We believe that great businesses exist everywhere, but opportunity doesn't. VenueYield was created to bridge that gap.
+            We believe that great businesses exist everywhere, but opportunity doesn't. Mekoin was created to bridge that gap.
           </p>
         </div>
       </section>
@@ -57,7 +57,7 @@ export default function AboutPage() {
               <h2 className="font-headline text-3xl font-bold">Our Vision</h2>
             </div>
             <p className="text-lg text-muted-foreground">
-              From Chiang Mai to the world. We envision a future where any profitable local business, from a cafe in Vietnam to a boutique hotel in Colombia, can access growth capital frictionlessly, and any investor can participate in their success.
+              From Bali to the world. We envision a future where any profitable local business, from a cafe in Canggu to a boutique hotel in Ubud, can access growth capital frictionlessly, and any investor can participate in their success.
             </p>
           </div>
         </div>
@@ -72,7 +72,7 @@ export default function AboutPage() {
               alt="Emerging market street scene"
               layout="fill"
               objectFit="cover"
-              data-ai-hint="emerging market"
+              data-ai-hint="bali street"
             />
           </div>
           <div>
@@ -84,7 +84,7 @@ export default function AboutPage() {
               Trillions in crypto capital are seeking stable, real-world yield, while millions of profitable small businesses in emerging economies are starved for fair, accessible financing.
             </p>
             <p className="mt-4 text-lg font-semibold text-primary">
-              VenueYield is the bridge.
+              Mekoin is the bridge.
             </p>
           </div>
         </div>

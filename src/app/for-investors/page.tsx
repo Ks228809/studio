@@ -42,7 +42,7 @@ export default function ForInvestorsPage() {
               DeFi yields are volatile and complex. Your stablecoins could be generating predictable returns from tangible, real-world assets, but access has always been limited. Until now.
             </p>
             <p className="mt-4 text-lg text-muted-foreground">
-              VenueYield solves this by offering tokenized revenue shares from vetted businesses in booming markets. It's the stable, real-world diversification your portfolio needs.
+              Mekoin solves this by offering tokenized revenue shares from vetted businesses in booming markets. It's the stable, real-world diversification your portfolio needs.
             </p>
           </div>
         </div>
@@ -52,7 +52,7 @@ export default function ForInvestorsPage() {
       <section className="bg-secondary py-16 md:py-24">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="font-headline text-3xl font-bold tracking-tighter sm:text-4xl">Why Invest with VenueYield?</h2>
+            <h2 className="font-headline text-3xl font-bold tracking-tighter sm:text-4xl">Why Invest with Mekoin?</h2>
             <p className="mx-auto mt-4 max-w-2xl text-muted-foreground md:text-lg">
               We provide easy access to real-world passive income, backed by transparency and security.
             </p>

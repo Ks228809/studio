@@ -18,7 +18,7 @@ export default function Home() {
             Real Places. Real Yields. No Delays.
           </h1>
           <p className="mx-auto mt-6 max-w-[700px] text-muted-foreground md:text-xl">
-            VenueYield unlocks crypto capital for the world’s most underfunded places, offering investors direct access to tokenized revenue shares from real-world assets.
+            Mekoin unlocks crypto capital for the world’s most underfunded places, offering investors direct access to tokenized revenue shares from real-world assets.
           </p>
           <div className="mt-8 flex flex-col justify-center gap-4 sm:flex-row">
             <Button asChild size="lg" className="font-bold">
@@ -140,21 +140,21 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="grid items-center gap-12 md:grid-cols-2">
             <div>
-              <h2 className="font-headline text-3xl font-bold tracking-tighter sm:text-4xl">From Chiang Mai to the World</h2>
+              <h2 className="font-headline text-3xl font-bold tracking-tighter sm:text-4xl">From Bali to the World</h2>
               <p className="mt-4 text-muted-foreground md:text-lg">
-                Our journey begins in Chiang Mai, Thailand – a cost-effective, crypto-aware hub full of culturally rich, revenue-ready venues. Its navigable legal landscape and tourism appeal make it the perfect launchpad.
+                Our journey begins in Bali, Indonesia – a cost-effective, crypto-aware hub full of culturally rich, revenue-ready venues. Its navigable legal landscape and tourism appeal make it the perfect launchpad.
               </p>
               <Button asChild className="mt-6 font-bold" variant="link">
-                <Link href="/chiang-mai-pilot">Why We Chose Chiang Mai <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                <Link href="/bali-pilot">Why We Chose Bali <ArrowRight className="ml-2 h-4 w-4" /></Link>
               </Button>
             </div>
             <div className="relative h-80 w-full overflow-hidden rounded-lg shadow-xl">
                <Image
                  src="https://placehold.co/600x400.png"
-                 alt="Chiang Mai scenery"
+                 alt="Bali scenery"
                  layout="fill"
                  objectFit="cover"
-                 data-ai-hint="thailand temple"
+                 data-ai-hint="bali temple"
                />
             </div>
           </div>
