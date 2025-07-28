@@ -145,7 +145,7 @@ export default function Home() {
                 Our journey begins in Bali, Indonesia – a cost-effective, crypto-aware hub full of culturally rich, revenue-ready venues. Its navigable legal landscape and tourism appeal make it the perfect launchpad.
               </p>
               <Button asChild className="mt-6 font-bold" variant="link">
-                <Link href="/chiang-mai-pilot">Why We Chose Bali <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                <Link href="/bali-pilot">Why We Chose Bali <ArrowRight className="ml-2 h-4 w-4" /></Link>
               </Button>
             </div>
             <div className="relative h-80 w-full overflow-hidden rounded-lg shadow-xl">

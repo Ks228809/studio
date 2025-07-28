@@ -36,7 +36,7 @@ export default function BaliPilotPage() {
       {/* Hero Section */}
       <section className="relative h-[50vh] min-h-[400px]">
         <Image
-          src="https://placehold.co/1920x1080.png"
+          src="https://images.unsplash.com/photo-1573790387438-4da905039392?q=80&w=2127&auto=format&fit=crop"
           alt="Panoramic view of Bali"
           fill
           className="object-cover brightness-50"
