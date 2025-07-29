@@ -1,4 +1,4 @@
-# **App Name**: VenueYield
+# **App Name**: MeKoin
 
 ## Core Features:
 
